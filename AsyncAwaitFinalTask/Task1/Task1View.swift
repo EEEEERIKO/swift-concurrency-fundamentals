@@ -39,7 +39,7 @@ struct Task1View: View, @unchecked Sendable {
 }
 
 struct Task1API {
-    private let baseURL = "http://numbersapi.com"
+    private let baseURL = "http://number-trivia.com"
     private let triviaPath = "random/trivia"
 
     func getTrivia(for number: Int?) async throws -> String {
