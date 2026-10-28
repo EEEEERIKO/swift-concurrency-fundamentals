@@ -8,14 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		D902E41F2C38080700D2F3CB /* Task3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D902E41E2C38080700D2F3CB /* Task3View.swift */; };
-		D90986662C414FB40072C530 /* Task5View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90986652C414FB40072C530 /* Task5View.swift */; };
 		D99F130D2BC58DAF00F23B1E /* AsyncAwaitFinalTaskApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F130C2BC58DAF00F23B1E /* AsyncAwaitFinalTaskApp.swift */; };
 		D99F130F2BC58DAF00F23B1E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F130E2BC58DAF00F23B1E /* RootView.swift */; };
 		D99F13112BC58DB200F23B1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D99F13102BC58DB200F23B1E /* Assets.xcassets */; };
 		D99F13152BC58DB200F23B1E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D99F13142BC58DB200F23B1E /* Preview Assets.xcassets */; };
-		D99F131F2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F131E2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.swift */; };
-		D99F13292BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F13282BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.swift */; };
-		D99F132B2BC58DB200F23B1E /* AsyncAwaitFinalTaskUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F132A2BC58DB200F23B1E /* AsyncAwaitFinalTaskUITestsLaunchTests.swift */; };
 		D99F13392BC58E5600F23B1E /* Task1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F13382BC58E5600F23B1E /* Task1View.swift */; };
 		D99F13412BC59D0000F23B1E /* Task2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D99F13402BC59D0000F23B1E /* Task2View.swift */; };
 		D9A209F52C3C1A4B004F1DDF /* Task4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9A209F42C3C1A4B004F1DDF /* Task4View.swift */; };
@@ -40,10 +36,6 @@
 
 /* Begin PBXFileReference section */
 		D902E41E2C38080700D2F3CB /* Task3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3View.swift; sourceTree = "<group>"; };
-		D902E4202C38152200D2F3CB /* Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Description.md; sourceTree = "<group>"; };
-		D90986652C414FB40072C530 /* Task5View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5View.swift; sourceTree = "<group>"; };
-		D90986672C415D180072C530 /* Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Description.md; sourceTree = "<group>"; };
-		D93AA8D02BDC02D50062E53F /* Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Description.md; sourceTree = "<group>"; };
 		D99F13092BC58DAF00F23B1E /* AsyncAwaitFinalTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AsyncAwaitFinalTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D99F130C2BC58DAF00F23B1E /* AsyncAwaitFinalTaskApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitFinalTaskApp.swift; sourceTree = "<group>"; };
 		D99F130E2BC58DAF00F23B1E /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
@@ -51,16 +43,10 @@
 		D99F13122BC58DB200F23B1E /* AsyncAwaitFinalTask.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AsyncAwaitFinalTask.entitlements; sourceTree = "<group>"; };
 		D99F13142BC58DB200F23B1E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D99F131A2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AsyncAwaitFinalTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D99F131E2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitFinalTaskTests.swift; sourceTree = "<group>"; };
 		D99F13242BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AsyncAwaitFinalTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		D99F13282BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitFinalTaskUITests.swift; sourceTree = "<group>"; };
-		D99F132A2BC58DB200F23B1E /* AsyncAwaitFinalTaskUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwaitFinalTaskUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D99F13382BC58E5600F23B1E /* Task1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1View.swift; sourceTree = "<group>"; };
 		D99F133A2BC59A2A00F23B1E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		D99F133D2BC59B6600F23B1E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D99F133E2BC59C1900F23B1E /* Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Description.md; sourceTree = "<group>"; };
 		D99F13402BC59D0000F23B1E /* Task2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2View.swift; sourceTree = "<group>"; };
-		D9A209F32C3C1A40004F1DDF /* Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Description.md; sourceTree = "<group>"; };
 		D9A209F42C3C1A4B004F1DDF /* Task4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,28 +78,15 @@
 		D902E41B2C3807D200D2F3CB /* Task3 */ = {
 			isa = PBXGroup;
 			children = (
-				D902E4202C38152200D2F3CB /* Description.md */,
 				D902E41E2C38080700D2F3CB /* Task3View.swift */,
 			);
 			path = Task3;
 			sourceTree = "<group>";
 		};
-		D90986642C414F9E0072C530 /* Task5 (optional) */ = {
-			isa = PBXGroup;
-			children = (
-				D90986672C415D180072C530 /* Description.md */,
-				D90986652C414FB40072C530 /* Task5View.swift */,
-			);
-			path = "Task5 (optional)";
-			sourceTree = "<group>";
-		};
 		D99F13002BC58DAF00F23B1E = {
 			isa = PBXGroup;
 			children = (
-				D99F133D2BC59B6600F23B1E /* README.md */,
 				D99F130B2BC58DAF00F23B1E /* AsyncAwaitFinalTask */,
-				D99F131D2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests */,
-				D99F13272BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests */,
 				D99F130A2BC58DAF00F23B1E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -138,7 +111,6 @@
 				D99F133F2BC59CE300F23B1E /* Task2 */,
 				D902E41B2C3807D200D2F3CB /* Task3 */,
 				D9A209F22C3C1A10004F1DDF /* Task4 */,
-				D90986642C414F9E0072C530 /* Task5 (optional) */,
 				D99F13102BC58DB200F23B1E /* Assets.xcassets */,
 				D99F13122BC58DB200F23B1E /* AsyncAwaitFinalTask.entitlements */,
 				D99F13132BC58DB200F23B1E /* Preview Content */,
@@ -154,27 +126,9 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		D99F131D2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests */ = {
-			isa = PBXGroup;
-			children = (
-				D99F131E2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.swift */,
-			);
-			path = AsyncAwaitFinalTaskTests;
-			sourceTree = "<group>";
-		};
-		D99F13272BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests */ = {
-			isa = PBXGroup;
-			children = (
-				D99F13282BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.swift */,
-				D99F132A2BC58DB200F23B1E /* AsyncAwaitFinalTaskUITestsLaunchTests.swift */,
-			);
-			path = AsyncAwaitFinalTaskUITests;
-			sourceTree = "<group>";
-		};
 		D99F13372BC58E4200F23B1E /* Task1 */ = {
 			isa = PBXGroup;
 			children = (
-				D99F133E2BC59C1900F23B1E /* Description.md */,
 				D99F13382BC58E5600F23B1E /* Task1View.swift */,
 			);
 			path = Task1;
@@ -183,7 +137,6 @@
 		D99F133F2BC59CE300F23B1E /* Task2 */ = {
 			isa = PBXGroup;
 			children = (
-				D93AA8D02BDC02D50062E53F /* Description.md */,
 				D99F13402BC59D0000F23B1E /* Task2View.swift */,
 			);
 			path = Task2;
@@ -192,7 +145,6 @@
 		D9A209F22C3C1A10004F1DDF /* Task4 */ = {
 			isa = PBXGroup;
 			children = (
-				D9A209F32C3C1A40004F1DDF /* Description.md */,
 				D9A209F42C3C1A4B004F1DDF /* Task4View.swift */,
 			);
 			path = Task4;
@@ -328,7 +280,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D90986662C414FB40072C530 /* Task5View.swift in Sources */,
 				D99F130F2BC58DAF00F23B1E /* RootView.swift in Sources */,
 				D99F130D2BC58DAF00F23B1E /* AsyncAwaitFinalTaskApp.swift in Sources */,
 				D99F13412BC59D0000F23B1E /* Task2View.swift in Sources */,
@@ -342,7 +293,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D99F131F2BC58DB200F23B1E /* AsyncAwaitFinalTaskTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -350,8 +300,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D99F132B2BC58DB200F23B1E /* AsyncAwaitFinalTaskUITestsLaunchTests.swift in Sources */,
-				D99F13292BC58DB200F23B1E /* AsyncAwaitFinalTaskUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -572,7 +520,6 @@
 		D99F13322BC58DB200F23B1E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -595,7 +542,6 @@
 		D99F13332BC58DB200F23B1E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -618,7 +564,6 @@
 		D99F13352BC58DB200F23B1E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
@@ -640,7 +585,6 @@
 		D99F13362BC58DB200F23B1E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
